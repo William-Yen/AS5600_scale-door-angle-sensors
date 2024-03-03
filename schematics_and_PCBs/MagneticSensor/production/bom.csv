@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",0603,2,C,
+J1,JST_5pin_SMD_vertical_foldedpins,1,JST-PH 5-pin,
+J6,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03_Socket,
+J7,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_Socket,
+"R1, R2, R3, R4",0603,4,R,
+U1,AS5600,1,AS5600,
